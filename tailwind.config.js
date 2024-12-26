@@ -3,7 +3,12 @@ export default {
   content: [ "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",],
   theme: {
-    extend: {},
+    extend: {
+      // container: {
+       
+      //   maxWidth: "1640px",
+      // },
+    },
   },
   plugins: [],
 }
