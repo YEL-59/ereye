@@ -1,8 +1,15 @@
-import React from 'react'
+import Banner from "./homecomponents/banner/Banner"
+
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <>
+    
+    <div>
+      <Banner/>
+    </div>
+    
+    </>
   )
 }
 

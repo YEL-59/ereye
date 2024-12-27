@@ -8,6 +8,14 @@ export default {
        
       //   maxWidth: "1640px",
       // },
+
+      btncolor:{
+        yelow:"#FFAD00"
+      },
+      colors: {
+        textcolor: '#333', 
+        secoundary:"#05164D",
+      },
     },
   },
   plugins: [],
